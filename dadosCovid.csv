@@ -1,4 +1,4 @@
-"Nome completo","Teste","Nascimento","Sexo","Infecção","Há quanto tempo?","Sintomas","Se já teve Covid-19, qual foi o método usado para diagnóstico","Vacinas","","Última imunização?"
+"Nome completo","Teste","Nascimento","Sexo","Infecção","Há quanto tempo?","Sintomas","Se já teve Covid-19, qual foi o método usado para diagnóstico","Vacinas","Qual(quais)?","Última imunização?"
 "Pessoa 1","IgG(-) IgM(-)","15/9/1997","Masculino","NÃO","","","","0","-","-"
 "Pessoa 2","IgG(+) IgM(+)","4/11/2000","Feminino","NÃO","","","","1","Astrazeneca","18/7/2021"
 "Pessoa 3","IgG(+) IgM(-)","7/3/2002","Feminino","NÃO","","","","1","Astrazeneca","31/7/2021"
